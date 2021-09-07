@@ -1,0 +1,7 @@
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.csprojAssemblyReference.cache
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.AssemblyInfoInputs.cache
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.AssemblyInfo.cs
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.csproj.CoreCompileInputs.cache
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.MvcApplicationPartsAssemblyInfo.cs
+/Users/oscarnegrete/Projects/dotnet-microservices/PlatformService/obj/Debug/net5.0/PlatformService.MvcApplicationPartsAssemblyInfo.cache
