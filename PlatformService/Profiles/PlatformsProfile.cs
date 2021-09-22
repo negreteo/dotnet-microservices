@@ -1,3 +1,4 @@
+using System;
 using AutoMapper;
 using PlatformService.Dtos;
 using PlatformService.Models;
@@ -8,9 +9,10 @@ namespace PlatformService.Profiles
   {
     public PlatformsProfile()
     {
-      // mappings - source -> target
+      // mappings: source (model) -> target (dto)
       CreateMap<Platform, PlatformReadDto>();
-      CreateMap<Platform, PlatformCreateDto>();
+      // mappings: source (dto) -> target (model)
+      CreateMap<PlatformCreateDto, Platform>();
     }
   }
 }
